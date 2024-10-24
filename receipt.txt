@@ -1,7 +1,0 @@
--------------Receipt-------------
-Customer Name: afasdfa
-
-Hotel cost:	225.99$
-Taxi cost:	49.20$
-Total cost:	275.19$
-----------------------------------
