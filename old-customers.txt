@@ -1,0 +1,42 @@
+
+Customer Id: 12
+Name: Dobos
+Age: 21
+Mobile Number: 771115704
+Address: afafas
+Gender: male
+
+Customer Id: 14
+Name: Dobos
+Age: 21
+Mobile Number: 771115704
+Address: bradului
+Gender: male
+
+Customer Id: 145
+Name: Diana
+Age: 21
+Mobile Number: 760708389
+Address: dreptatii
+Gender: female
+
+Customer Id: 145
+Name: Albert
+Age: 21
+Mobile Number: 4141411
+Address: bradului
+Gender: male
+
+Customer Id: 1451
+Name: Dragonu
+Age: 65
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer Id: 1312
+Name: afasdfa
+Age: 312
+Mobile Number: 315251
+Address: dzsfa
+Gender: 2141
